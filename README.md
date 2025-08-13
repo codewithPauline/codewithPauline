@@ -10,6 +10,19 @@
 I am a computational biologist with a strong focus on **population genomics**, **species delimitation**, and **gene flow analysis**. 
 My work integrates **high-throughput sequencing data (RADseq, WGS)** with **phylogenetic and Bayesian modeling** to answer key questions in evolutionary biology.
 
+## 🌱 Field Research Experience
+- **Salamander Ecology & Population Monitoring (Miami University – Ecology Research Center)**  
+Conducted extensive field surveys to monitor *Ambystoma* salamander populations, focusing on breeding habitats, seasonal activity, and microhabitat conditions. Collected tissue samples, recorded environmental parameters (water quality, substrate type, vegetation cover), and documented population health indicators. These datasets serve as a critical ecological context for downstream genomic analyses.  
+
+---
+## 🎤 Presentations & Conferences
+- **Poster Presentation – Socitey for Study of Evolution, Georgia (SSE 2025)**
+*“Assessing Species Boundaries and Genetic Flow in Ambystoma barbouri and Ambystoma texanum"*.
+- **Poster Acceptance – European Society for Evolutionary Biology (ESEB) 2025, Barcelona, Spain**
+*“Species boundaries and gene flow in Ambystoma salamanders: Integrating field ecology with genomic analyses”* — Accepted for presentation but unable to attend due to visa constraints.
+- **Invited Talk – Story Collider by Society for Study of Evolution (SSE) 2024**
+Delivered a public science storytelling talk, sharing my journey in Evolutuionary Biology, highlighting the intersection of personal experiences and scientific work.
+
 ---
 ## 📚 Teaching Experience
 
