@@ -1,4 +1,4 @@
-# Hi, I'm Pauline Owusu
+# Hi, I'm Pauline Owusu-Ansah
 
  **PhD researcher in Evolutionary Biology** at Miami University (Ohio, USA) 
  **Computational Genomics | Bioinformatics | Species Delimitation** 
@@ -65,7 +65,8 @@ Delivered a public science storytelling talk, sharing my journey in Evolutuionar
 - **Salamander Ecology & Population Monitoring (Miami University – Ecology Research Center)**  
 Conducted extensive field surveys to monitor *Ambystoma* salamander populations, focusing on breeding habitats, seasonal activity, and microhabitat conditions. Collected tissue samples, recorded environmental parameters (water quality, substrate type, vegetation cover), and documented population health indicators. These datasets serve as a critical ecological context for downstream genomic analyses.  
 
-
+## 🏆Fellowshios & Awards
+- **Gundlach Theis Fellowship - USD$3,000 - Summer 2025** 
 ---
 
 ## Connect With Me
