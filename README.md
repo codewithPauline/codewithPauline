@@ -1,6 +1,6 @@
 # Hi, I'm Pauline Owusu-Ansah
 
- **PhD researcher in Evolutionary Biology** at Miami University (Ohio, USA) 
+ **PhD student (Biology)** in https://sites.miamioh.edu/jezkova-lab/ at Miami University (Ohio, USA), 
  **Computational Genomics | Bioinformatics | Species Delimitation** 
  Applying advanced genomic tools to study biodiversity, conservation, and evolutionary processes.
 
@@ -70,8 +70,10 @@ Conducted extensive field surveys to monitor *Ambystoma* salamander populations,
 ---
 
 ## Connect With Me
-[![LinkedIn] (https://www.linkedin.com/in/pauline-owusu-ansah-010250192?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@paulineowusu653@gmail.com.com)
+**linkedIn:** (https://www.linkedin.com/in/pauline-owusu-ansah-010250192?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+**Email:** (https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@paulineowusu653@gmail.com.com)       
+**X:** (https://x.com/yaafhanzy?s=11&t=EKXHHj1dJ2vqB5zLOt4V7A)
+
 
 ---
  _Committed to advancing genomics research that bridges biodiversity science and real-world applications._
