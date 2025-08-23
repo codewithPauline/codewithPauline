@@ -1,4 +1,4 @@
-# Hi, I'm Pauline Owusu-Ansah
+# Hi, I'm Pauline 
 
  **PhD student (Biology)** in https://sites.miamioh.edu/jezkova-lab/ at Miami University (Ohio, USA), 
  **Computational Genomics | Bioinformatics | Species Delimitation** 
