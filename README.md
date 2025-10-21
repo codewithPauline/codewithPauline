@@ -57,7 +57,7 @@ Delivered a public science storytelling talk, sharing my journey in Evolutuionar
 
   *Genetics module* – 4-day training covering VCF analysis, phylogenetic trees, structure analysis, and population genetics in R.
 
-- **Laboratory Tutor – Principles of Human Physiology (Fall 2023 – Spring 2024)**  
+- **Laboratory Tutor – Principles of Human Physiology (Fall 2023 – Fall 2025)**  
 
   Guided students through laboratory experiments, data analysis, and interpretation; held office hours to support learning.
 
