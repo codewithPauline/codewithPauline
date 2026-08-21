@@ -1,16 +1,16 @@
-# Hi, I'm Pauline 
+# Hi, I'm Pauline Owusu-Ansah
+**PhD Candidate in Computational Biology | Population Genomics | Bioinformatics | Evolutionary Genomics**
 
- **A PhD candidate ** in https://sites.miamioh.edu/jezkova-lab/ at Miami University (Ohio, USA), reading Biology with emphasis on 
- **Computational Genomics | Bioinformatics | Species Delimitation** 
- Applying advanced genomic tools to study biodiversity, conservation, and evolutionary processes.
+Using genomic and computational approaches to investigate **species boundaries, gene flow, genomic divergence, population structure, and gene expression** in the Jezkova Lab (https://sites.miamioh.edu/jezkova-lab/) at **Miami University** (Ohio, USA).
+
+My research combines **RADseq, population genomics, phylogenetics, spatial genomics, and RNA-seq** to understand evolutionary divergence in *Ambystoma* salamanders.
 
 ---
 
-## About Me
+## What I do
 I am a computational biologist with a strong focus on **population genomics**, **species delimitation**, and **gene flow analysis**. 
 My work integrates **high-throughput sequencing data (RADseq, WGS)** with **phylogenetic and Bayesian modeling** to answer key questions in evolutionary biology.
 
-## Skills & Tools
 
 ### **Genomics & Bioinformatics**
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
@@ -45,7 +45,7 @@ High-Performance Computing (SLURM) · Linux/WSL · Conda Environments
   
 ## 🎤 Invited Talks & Science Communication
 
-## The Story Collider — Invited Speaker, 2024
+### Speaker @The Story Collider by SSE, 2024
 
 In 2024, I was invited to speak at **The Story Collider** Society for the Study of Evolution Conference at Montreal, Canada, where I shared a personal science story connecting research, identity, persistence, and the human side of becoming a scientist.
 
