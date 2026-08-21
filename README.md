@@ -1,6 +1,6 @@
 # Hi, I'm Pauline 
 
- **PhD student (Biology)** in https://sites.miamioh.edu/jezkova-lab/ at Miami University (Ohio, USA), 
+ **A PhD candidate ** in https://sites.miamioh.edu/jezkova-lab/ at Miami University (Ohio, USA), reading Biology with emphasis on 
  **Computational Genomics | Bioinformatics | Species Delimitation** 
  Applying advanced genomic tools to study biodiversity, conservation, and evolutionary processes.
 
@@ -42,6 +42,30 @@ High-Performance Computing (SLURM) · Linux/WSL · Conda Environments
 - Developing reproducible, open-source workflows for population genomics
 
 ---
+  
+## 🎤 Invited Talks & Science Communication
+
+## The Story Collider — Invited Speaker, 2024
+
+In 2024, I was invited to speak at **The Story Collider** Society for the Study of Evolution Conference at Montreal, Canada, where I shared a personal science story connecting research, identity, persistence, and the human side of becoming a scientist.
+
+<p align="center">
+<img src="Majolica_Photo_StoryCollider _Pauline_15.jpeg"
+alt="Pauline Owusu-Ansah speaking at The Story Collider at SSE 2024, Montreal Canada"
+width="820">
+</p>
+
+<p align="center">
+<em>Invited speaker at The Story Collider, 2024.</em>
+</p>
+
+This experience strengthened my interests in:
+- Public science communication
+- Storytelling in science
+- Communicating research to broad audiences
+- Connecting scientific careers with lived experience
+- Making science more accessible beyond academic settings
+---
 ## 🎤 Presentations & Conferences
 - **Poster Presentation – Socitey for Study of Evolution, Georgia (SSE 2025)**
 *“Assessing Species Boundaries and Genetic Flow in Ambystoma barbouri and Ambystoma texanum"*.
@@ -51,15 +75,42 @@ High-Performance Computing (SLURM) · Linux/WSL · Conda Environments
 Delivered a public science storytelling talk, sharing my journey in Evolutuionary Biology, highlighting the intersection of personal experiences and scientific work.
 
 ---
+
 ## 📚 Teaching Experience
 
 - **Co-Instructor – LAMBDA Workshop (August 2025)**  
 
   *Genetics module* – 4-day training covering VCF analysis, phylogenetic trees, structure analysis, and population genetics in R.
 
-- **Laboratory Tutor – Principles of Human Physiology (Fall 2023 – Fall 2025)**  
+- **Laboratory Tutor – Principles of Human Physiology (Fall 2023 – Spring 2026)**  
 
   Guided students through laboratory experiments, data analysis, and interpretation; held office hours to support learning.
+
+## 👩🏾‍🏫 Teaching in Action
+
+Teaching and scientific communication are an important part of my graduate training.
+
+I have experience teaching undergraduate biology and computational research methods, including **Human Physiology & Anatomy** and **Genetic Analysis with R**.
+
+<p align="center">
+<img src="IMG_5434.jpeg"
+alt="Pauline Owusu-Ansah teaching students"
+width="780">
+</p>
+
+<p align="center">
+<em>Teaching students how to use R for genomics and genetic analysis, LAMBDA WORKSHOP 2026.</em>
+</p>
+
+My teaching approach emphasizes:
+
+- Making complex biological and computational concepts accessible
+- Connecting theory with hands-on analysis
+- Helping students interpret biological data
+- Building confidence with R and scientific computing
+- Encouraging reproducible research practices
+- Supporting collaborative and inquiry-based learning
+
 
 ## 🌱 Field Research Experience
 - **Salamander Ecology & Population Monitoring (Miami University – Ecology Research Center)**  
