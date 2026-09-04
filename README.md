@@ -1,3 +1,12 @@
+<a href="https://codewithpauline.github.io/genomic-orbit/">
+  <img
+    src="assets/genomic-orbit.gif"
+    width="100%"
+    alt="Pauline Owusu-Ansah — computational and evolutionary biology"
+  >
+</a>
+
+<br>
 # Hi, I'm Pauline Owusu-Ansah
 **PhD Candidate in Computational Biology | Population Genomics | Bioinformatics | Evolutionary Genomics**
 
