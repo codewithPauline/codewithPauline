@@ -7,7 +7,7 @@
 </a>
 
 <br>
-# Hi, I'm Pauline Owusu-Ansah
+Hi, I'm Pauline Owusu-Ansah
 **PhD Candidate in Computational Biology | Population Genomics | Bioinformatics | Evolutionary Genomics**
 
 Using genomic and computational approaches to investigate **species boundaries, gene flow, genomic divergence, population structure, and gene expression** in the Jezkova Lab (https://sites.miamioh.edu/jezkova-lab/) at **Miami University** (Ohio, USA).
