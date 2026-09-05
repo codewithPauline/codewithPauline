@@ -24,6 +24,14 @@ My work connects biological questions with sequence processing, statistical anal
 
 ## Selected projects
 
+### [PopGenMapper — R package](https://github.com/codewithPauline/PopGenMapper)
+
+**Package development · Population ancestry · Geographic visualization**
+
+An R package in active development for validating ancestry proportions, matching sample IDs to coordinates, and creating consistent ancestry visualizations. Includes fictional example data, function documentation, and automated R package checks.
+
+[Explore the package →](https://github.com/codewithPauline/PopGenMapper#readme)
+
 ### [RADseq to phylogeny](https://github.com/codewithPauline/ipyrad_to_IQTREE)
 
 **Sequence processing · De novo assembly · Evolutionary relationships**
