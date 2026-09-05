@@ -1,139 +1,103 @@
+<h1 align="center">Pauline Owusu-Ansah</h1>
+
+<p align="center">
+  <strong>Computational Biology · Population Genomics · Bioinformatics</strong><br>
+  Ph.D. Candidate in Biology · Miami University, Ohio
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pauline-owusu-ansah-010250192/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:paulineowusu653@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://sites.miamioh.edu/jezkova-lab/">Jezkova Lab</a> &nbsp;·&nbsp;
+  <a href="https://codewithpauline.github.io/genomic-orbit/">Interactive Genomic Orbit</a>
+</p>
+
 <a href="https://codewithpauline.github.io/genomic-orbit/">
-  <img
-    src="assets/genomic-orbit.gif"
-    width="100%"
-    alt="Pauline Owusu-Ansah — computational and evolutionary biology"
-  >
+  <img src="assets/genomic-orbit.gif" width="100%" alt="Animated genomic orbit linking Pauline's research interests in population genomics, transcriptomics, and AI for science">
 </a>
 
+## From genomic data to evolutionary insight
+
+I study how species diverge and exchange genes. In the [Jezkova Lab](https://sites.miamioh.edu/jezkova-lab/) at **Miami University**, I combine RADseq, phylogenetics, population structure analysis, and geographic visualization to investigate species boundaries and gene flow in *Ambystoma* salamanders.
+
+My work connects biological questions with sequence processing, statistical analysis, and clear scientific figures. This portfolio shares my analysis workflows, computational methods, and scientific visualization projects.
+
+## Selected projects
+
+### [RADseq to phylogeny](https://github.com/codewithPauline/ipyrad_to_IQTREE)
+
+**Sequence processing · De novo assembly · Evolutionary relationships**
+
+A documented single-end RADseq workflow connecting read preprocessing and **ipyrad** assembly with maximum-likelihood phylogenetic inference in **IQ-TREE**. The repository includes shell scripts, assembly parameters, an environment file, and analysis guidance.
+
+[Explore the workflow →](https://github.com/codewithPauline/ipyrad_to_IQTREE#readme)
+
+### [Population structure & geographic ancestry](https://github.com/codewithPauline/Ancestry)
+
+**125 individuals · Seven U.S. states · Genomic ancestry in geographic context**
+
+A documented **PLINK → ADMIXTURE → R** analysis of *A. barbouri* and *A. texanum*. Covers model comparison across K = 1–10, ancestry barplots, and geographic pie maps, with K = 2, 3, and 5 used to explore population structure at different resolutions.
+
+The public repository contains workflow documentation and code examples; research data are withheld pending publication and applicable agreements.
+
+[Explore the analysis →](https://github.com/codewithPauline/Ancestry#readme)
+
+### [Genomic Orbit](https://github.com/codewithPauline/genomic-orbit)
+
+**Interactive visualization · Scientific communication · Web development**
+
+An interactive DNA visualization built with **HTML, CSS, JavaScript, and Canvas**. Features rotation controls, research nodes, and support for reduced-motion preferences.
+
+[Launch the visualization →](https://codewithpauline.github.io/genomic-orbit/) · [View the source →](https://github.com/codewithPauline/genomic-orbit)
+
+## Technical toolkit
+
+| Area | Tools & experience |
+| :--- | :--- |
+| Programming & analysis | R, Python, Bash |
+| Sequence quality & assembly | FastQC, MultiQC, fastp, Stacks, ipyrad |
+| Population genomics & phylogenetics | PLINK, ADMIXTURE, IQ-TREE, EEMS |
+| Data visualization | ggplot2, ggrepel, sf, mapmixture, igraph |
+| Research computing | Linux/WSL, HPC, SLURM, Conda, Git & GitHub |
+
+## Research in progress
+
+- **Species boundaries and gene flow:** integrating phylogenetic relationships, ancestry patterns, and geographic context in *Ambystoma barbouri* and *A. texanum*.
+- **Spatial population genomics:** investigating how population structure and genetic connectivity vary across the landscape.
+- **Comparative transcriptomics:** developing RNA-seq analyses of brain, liver, heart, and ovarian tissues to investigate expression differences between species and tissues.
+
+## Teaching & scientific communication
+
+I teach **Human Physiology & Anatomy** laboratory courses and computational approaches to genetics. As a **LAMBDA workshop instructor**, I help researchers use R to explore genetic data, interpret results, and develop reproducible analysis habits.
+
+My science communication experience includes an invited **Story Collider** talk at the **2024 Evolution meeting in Montréal**, connecting my scientific work with the personal experience of becoming a researcher.
+
+<details>
+<summary><strong>See teaching and science communication in action</strong></summary>
+
 <br>
-Hi, I'm Pauline Owusu-Ansah
-**PhD Candidate in Computational Biology | Population Genomics | Bioinformatics | Evolutionary Genomics**
 
-Using genomic and computational approaches to investigate **species boundaries, gene flow, genomic divergence, population structure, and gene expression** in the Jezkova Lab (https://sites.miamioh.edu/jezkova-lab/) at **Miami University** (Ohio, USA).
+<img src="IMG_5434.jpeg" width="720" alt="Pauline teaching R for genetics at the LAMBDA workshop">
 
-My research combines **RADseq, population genomics, phylogenetics, spatial genomics, and RNA-seq** to understand evolutionary divergence in *Ambystoma* salamanders.
+*Teaching R for genetics at the LAMBDA workshop, 2026.*
 
----
+<img src="Majolica_Photo_StoryCollider%20_Pauline_15.jpeg" width="720" alt="Pauline speaking at The Story Collider in Montréal in 2024">
 
-## What I do
-I am a computational biologist with a strong focus on **population genomics**, **species delimitation**, and **gene flow analysis**. 
-My work integrates **high-throughput sequencing data (RADseq, WGS)** with **phylogenetic and Bayesian modeling** to answer key questions in evolutionary biology.
+*Invited science storytelling speaker, 2024.*
 
+</details>
 
-### **Genomics & Bioinformatics**
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+## Background & service
 
-**Tools & Pipelines** 
-`ipyrad` · `BPP` · `ADMIXTURE` · `EEMS` · `PLINK` · `IQ-TREE` · `STRUCTURE` 
-
-**Data Analysis & Visualization** 
-`ggplot2` · `ggrepel` · `matplotlib` · `igraph` 
-
-**Computing** 
-High-Performance Computing (SLURM) · Linux/WSL · Conda Environments 
+- **Ph.D. Candidate in Biology**, Miami University — computational and evolutionary biology.
+- **B.Sc. in Environmental Science**, Kwame Nkrumah University of Science and Technology.
+- **Gundlach Theis Fellowship**, 2025.
+- **Treasurer**, Miami Association of Graduate Students.
 
 ---
 
-## Featured Projects
-- **[Ambystoma Species Delimitation Pipeline](#)** → End-to-end RADseq workflow for delimiting *Ambystoma* salamanders using phylogenetics, Bayesian inference, and population structure.
-- **[Bayesian IBD & Gene Flow Modeling](#)** → Spatial models detecting isolation-by-distance and asymmetric migration.
-- **[LAMBDA Workshop Materials](#)** → R training resources for genomics, population genetics, and phylogenetic analysis.
+### Let's connect
 
----
+Interested in computational biology, population genomics, bioinformatics, or research collaborations? Reach me on [LinkedIn](https://www.linkedin.com/in/pauline-owusu-ansah-010250192/) or by [email](mailto:paulineowusu653@gmail.com).
 
-## Current Focus
-- Species boundaries and hybridization in *Ambystoma barbouri* & *A. texanum*
-- Genomic data integration for conservation decisions
-- Developing reproducible, open-source workflows for population genomics
-
----
-  
-## 🎤 Invited Talks & Science Communication
-
-### Speaker @The Story Collider by SSE, 2024
-
-In 2024, I was invited to speak at **The Story Collider** Society for the Study of Evolution Conference at Montreal, Canada, where I shared a personal science story connecting research, identity, persistence, and the human side of becoming a scientist.
-
-<p align="center">
-<img src="Majolica_Photo_StoryCollider _Pauline_15.jpeg"
-alt="Pauline Owusu-Ansah speaking at The Story Collider at SSE 2024, Montreal Canada"
-width="820">
-</p>
-
-<p align="center">
-<em>Invited speaker at The Story Collider, 2024.</em>
-</p>
-
-This experience strengthened my interests in:
-- Public science communication
-- Storytelling in science
-- Communicating research to broad audiences
-- Connecting scientific careers with lived experience
-- Making science more accessible beyond academic settings
----
-## 🎤 Presentations & Conferences
-- **Poster Presentation – Socitey for Study of Evolution, Georgia (SSE 2025)**
-*“Assessing Species Boundaries and Genetic Flow in Ambystoma barbouri and Ambystoma texanum"*.
-- **Poster Acceptance – European Society for Evolutionary Biology (ESEB) 2025, Barcelona, Spain**
-*“Species boundaries and gene flow in Ambystoma salamanders: Integrating field ecology with genomic analyses”* — Accepted for presentation but unable to attend due to visa constraints.
-- **Invited Talk – Story Collider by Society for Study of Evolution (SSE) 2024**
-Delivered a public science storytelling talk, sharing my journey in Evolutuionary Biology, highlighting the intersection of personal experiences and scientific work.
-
----
-
-## 📚 Teaching Experience
-
-- **Co-Instructor – LAMBDA Workshop (August 2025)**  
-
-  *Genetics module* – 4-day training covering VCF analysis, phylogenetic trees, structure analysis, and population genetics in R.
-
-- **Laboratory Tutor – Principles of Human Physiology (Fall 2023 – Spring 2026)**  
-
-  Guided students through laboratory experiments, data analysis, and interpretation; held office hours to support learning.
-
-## 👩🏾‍🏫 Teaching in Action
-
-Teaching and scientific communication are an important part of my graduate training.
-
-I have experience teaching undergraduate biology and computational research methods, including **Human Physiology & Anatomy** and **Genetic Analysis with R**.
-
-<p align="center">
-<img src="IMG_5434.jpeg"
-alt="Pauline Owusu-Ansah teaching students"
-width="780">
-</p>
-
-<p align="center">
-<em>Teaching students how to use R for genomics and genetic analysis, LAMBDA WORKSHOP 2026.</em>
-</p>
-
-My teaching approach emphasizes:
-
-- Making complex biological and computational concepts accessible
-- Connecting theory with hands-on analysis
-- Helping students interpret biological data
-- Building confidence with R and scientific computing
-- Encouraging reproducible research practices
-- Supporting collaborative and inquiry-based learning
-
-
-## 🌱 Field Research Experience
-- **Salamander Ecology & Population Monitoring (Miami University – Ecology Research Center)**  
-Conducted extensive field surveys to monitor *Ambystoma* salamander populations, focusing on breeding habitats, seasonal activity, and microhabitat conditions. Collected tissue samples, recorded environmental parameters (water quality, substrate type, vegetation cover), and documented population health indicators. These datasets serve as a critical ecological context for downstream genomic analyses.  
-
-## 🏆Fellowship & Awards
-- **Gundlach Theis Fellowship - USD$3,000 - Summer 2025** 
----
-
-## Connect With Me
-**linkedIn:** (https://www.linkedin.com/in/pauline-owusu-ansah-010250192?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-**Email:** (https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@paulineowusu653@gmail.com.com)       
-**X:** (https://x.com/yaafhanzy?s=11&t=EKXHHj1dJ2vqB5zLOt4V7A)
-
-
----
- _Committed to advancing genomics research that bridges biodiversity science and real-world applications._
+<sub>Biological questions. Transparent workflows. Clear scientific communication.</sub>
