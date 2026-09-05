@@ -24,7 +24,7 @@ My work connects biological questions with sequence processing, statistical anal
 
 ## Selected projects
 
-### [PopGenMapper — R package](https://github.com/codewithPauline/PopGenMapper)
+### [PopGenMapper - R package](https://github.com/codewithPauline/PopGenMapper)
 
 **Package development · Population ancestry · Geographic visualization**
 
