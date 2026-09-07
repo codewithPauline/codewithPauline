@@ -15,11 +15,9 @@
 
 ## I turn biological questions into reproducible computational tools
 
-I am a computational and evolutionary biologist working at the intersection of **genomics, scientific software, data visualization, and reproducible research**.
+Computational and evolutionary biologist building **genomic analyses, scientific software, and interactive biological visualizations**.
 
-My research investigates species boundaries, population structure, and gene flow in *Ambystoma* salamanders. Alongside that work, I build reusable software and interactive scientific applications that make complex biological data easier to analyze, validate, visualize, and teach.
-
-**What I bring:** biological domain expertise · reproducible analysis · software development · scientific visualization · HPC workflows · clear technical communication
+**R · Python · Bash · HPC · Population Genomics · Scientific Software**
 
 ## Flagship projects
 
