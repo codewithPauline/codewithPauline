@@ -9,7 +9,8 @@
   <a href="https://www.linkedin.com/in/pauline-owusu-ansah-010250192/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:paulineowusu653@gmail.com">Email</a> &nbsp;·&nbsp;
   <a href="https://sites.miamioh.edu/jezkova-lab/">Jezkova Lab</a> &nbsp;·&nbsp;
-  <a href="https://codewithpauline.github.io/genomic-orbit/">Interactive Genomic Orbit</a>
+  <a href="https://codewithpauline.github.io/Anatomica/">Anatomica</a> &nbsp;·&nbsp;
+  <a href="https://codewithpauline.github.io/genomic-orbit/">Genomic Orbit</a>
 </p>
 
 <a href="https://codewithpauline.github.io/genomic-orbit/">
@@ -20,9 +21,19 @@
 
 I study how species diverge and exchange genes. In the [Jezkova Lab](https://sites.miamioh.edu/jezkova-lab/) at **Miami University**, I combine RADseq, phylogenetics, population structure analysis, and geographic visualization to investigate species boundaries and gene flow in *Ambystoma* salamanders.
 
-My work connects biological questions with sequence processing, statistical analysis, and clear scientific figures. This portfolio shares my analysis workflows, computational methods, and scientific visualization projects.
+My work connects biological questions with sequence processing, statistical analysis, scientific visualization, and interactive software development. This portfolio shares my analysis workflows, computational methods, research tools, and browser-based scientific learning projects.
 
 ## Selected projects
+
+### [Anatomica — Interactive 3D Anatomy & Physiology](https://github.com/codewithPauline/Anatomica)
+
+**Three.js · WebGL · Interactive medical education · 3D anatomical data · CI/CD**
+
+An open-source browser-based 3D anatomy and physiology learning platform for medical, nursing, and health-science students. Anatomica combines real anatomical GLB assets with structured medical metadata, interactive system layers, clinical teaching modes, quizzes, camera-guided study views, and reproducible model provenance.
+
+The current upper-limb release includes shoulder, arm, forearm, wrist, and hand anatomy; rotator-cuff and forearm study modes; brachial plexus teaching overlays; anatomical color semantics; and a growing clinical question bank. Production builds are verified with GitHub Actions and deployed automatically to GitHub Pages.
+
+[Launch Anatomica →](https://codewithpauline.github.io/Anatomica/) · [View the source →](https://github.com/codewithPauline/Anatomica)
 
 ### [PopGenMapper - R package](https://github.com/codewithPauline/PopGenMapper)
 
@@ -62,11 +73,13 @@ An interactive DNA visualization built with **HTML, CSS, JavaScript, and Canvas*
 
 | Area | Tools & experience |
 | :--- | :--- |
-| Programming & analysis | R, Python, Bash |
+| Programming & analysis | R, Python, JavaScript, Bash |
+| Scientific / 3D web development | Three.js, WebGL, Vite, GLB/glTF, HTML, CSS |
 | Sequence quality & assembly | FastQC, MultiQC, fastp, Stacks, ipyrad |
 | Population genomics & phylogenetics | PLINK, ADMIXTURE, IQ-TREE, EEMS |
 | Data visualization | ggplot2, ggrepel, sf, mapmixture, igraph |
 | Research computing | Linux/WSL, HPC, SLURM, Conda, Git & GitHub |
+| Software delivery | GitHub Actions, GitHub Pages, reproducible asset pipelines |
 
 ## Research in progress
 
@@ -106,6 +119,6 @@ My science communication experience includes an invited **Story Collider** talk 
 
 ### Let's connect
 
-Interested in computational biology, population genomics, bioinformatics, or research collaborations? Reach me on [LinkedIn](https://www.linkedin.com/in/pauline-owusu-ansah-010250192/) or by [email](mailto:paulineowusu653@gmail.com).
+Interested in computational biology, population genomics, bioinformatics, scientific software, or research collaborations? Reach me on [LinkedIn](https://www.linkedin.com/in/pauline-owusu-ansah-010250192/) or by [email](mailto:paulineowusu653@gmail.com).
 
 <sub>Biological questions. Transparent workflows. Clear scientific communication.</sub>
