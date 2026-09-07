@@ -1,100 +1,107 @@
 <h1 align="center">Pauline Owusu-Ansah</h1>
 
 <p align="center">
-  <strong>Computational Biology · Population Genomics · Bioinformatics</strong><br>
+  <strong>Computational Biologist · Bioinformatics · Population Genomics · Scientific Software</strong><br>
   Ph.D. Candidate in Biology · Miami University, Ohio
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pauline-owusu-ansah-010250192/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:paulineowusu653@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://sites.miamioh.edu/jezkova-lab/">Jezkova Lab</a> &nbsp;·&nbsp;
-  <a href="https://codewithpauline.github.io/Anatomica/">Anatomica</a> &nbsp;·&nbsp;
-  <a href="https://codewithpauline.github.io/genomic-orbit/">Genomic Orbit</a>
+  <a href="https://sites.miamioh.edu/jezkova-lab/">Jezkova Lab</a>
 </p>
 
-<a href="https://codewithpauline.github.io/genomic-orbit/">
-  <img src="assets/genomic-orbit.gif" width="100%" alt="Animated genomic orbit linking Pauline's research interests in population genomics, transcriptomics, and AI for science">
-</a>
+---
 
-## From genomic data to evolutionary insight
+## I turn biological questions into reproducible computational tools
 
-I study how species diverge and exchange genes. In the [Jezkova Lab](https://sites.miamioh.edu/jezkova-lab/) at **Miami University**, I combine RADseq, phylogenetics, population structure analysis, and geographic visualization to investigate species boundaries and gene flow in *Ambystoma* salamanders.
+I am a computational and evolutionary biologist working at the intersection of **genomics, scientific software, data visualization, and reproducible research**.
 
-My work connects biological questions with sequence processing, statistical analysis, scientific visualization, and interactive software development. This portfolio shares my analysis workflows, computational methods, research tools, and browser-based scientific learning projects.
+My research investigates species boundaries, population structure, and gene flow in *Ambystoma* salamanders. Alongside that work, I build reusable software and interactive scientific applications that make complex biological data easier to analyze, validate, visualize, and teach.
 
-## Selected projects
+**What I bring:** biological domain expertise · reproducible analysis · software development · scientific visualization · HPC workflows · clear technical communication
 
-### [Anatomica — Interactive 3D Anatomy & Physiology](https://github.com/codewithPauline/Anatomica)
+## Flagship projects
 
-**Three.js · WebGL · Interactive medical education · 3D anatomical data · CI/CD**
+<table>
+<tr>
+<td width="33%" valign="top">
 
-An open-source browser-based 3D anatomy and physiology learning platform for medical, nursing, and health-science students. Anatomica combines real anatomical GLB assets with structured medical metadata, interactive system layers, clinical teaching modes, quizzes, camera-guided study views, and reproducible model provenance.
+### [Anatomica](https://github.com/codewithPauline/Anatomica)
 
-The current upper-limb release includes shoulder, arm, forearm, wrist, and hand anatomy; rotator-cuff and forearm study modes; brachial plexus teaching overlays; anatomical color semantics; and a growing clinical question bank. Production builds are verified with GitHub Actions and deployed automatically to GitHub Pages.
+**Interactive 3D anatomy platform**
 
-[Launch Anatomica →](https://codewithpauline.github.io/Anatomica/) · [View the source →](https://github.com/codewithPauline/Anatomica)
+A browser-based anatomy and physiology learning system built with **Three.js, WebGL, JavaScript, GLB/glTF, and Vite**.
 
-### [PopGenMapper - R package](https://github.com/codewithPauline/PopGenMapper)
+Current development includes real anatomical meshes, system-based coloring, upper-limb and hand exploration, rotator-cuff and forearm study modes, clinical teaching metadata, interactive quizzes, reproducible asset provenance, CI, and automated GitHub Pages deployment.
 
-**Package development · Population ancestry · Geographic visualization**
+**Signals:** product engineering · 3D visualization · scientific data architecture · CI/CD
 
-An R package in active development for validating ancestry proportions, matching sample IDs to coordinates, and creating consistent ancestry visualizations. Includes fictional example data, function documentation, and automated R package checks.
+[Live demo →](https://codewithpauline.github.io/Anatomica/)  
+[Source →](https://github.com/codewithPauline/Anatomica)
 
-[Explore the package →](https://github.com/codewithPauline/PopGenMapper#readme)
+</td>
+<td width="33%" valign="top">
 
-### [RADseq to phylogeny](https://github.com/codewithPauline/ipyrad_to_IQTREE)
+### [PopGenMapper](https://github.com/codewithPauline/PopGenMapper)
 
-**Sequence processing · De novo assembly · Evolutionary relationships**
+**R package for ancestry + geography**
 
-A documented single-end RADseq workflow connecting read preprocessing and **ipyrad** assembly with maximum-likelihood phylogenetic inference in **IQ-TREE**. The repository includes shell scripts, assembly parameters, an environment file, and analysis guidance.
+A reusable R package for validating ancestry inputs, matching sample IDs to geographic coordinates, summarizing localities, and producing consistent ancestry barplots and projected geographic maps.
 
-[Explore the workflow →](https://github.com/codewithPauline/ipyrad_to_IQTREE#readme)
+The package includes documented functions, fictional example data, deterministic label placement, SVG/PDF export, tests, and automated package checks on **Windows, macOS, and Linux**.
 
-### [Population structure & geographic ancestry](https://github.com/codewithPauline/Ancestry)
+**Signals:** R package development · input validation · testing · geospatial visualization
 
-**125 individuals · Seven U.S. states · Genomic ancestry in geographic context**
+[Explore package →](https://github.com/codewithPauline/PopGenMapper#readme)
 
-A documented **PLINK → ADMIXTURE → R** analysis of *A. barbouri* and *A. texanum*. Covers model comparison across K = 1–10, ancestry barplots, and geographic pie maps, with K = 2, 3, and 5 used to explore population structure at different resolutions.
+</td>
+<td width="33%" valign="top">
 
-The public repository contains workflow documentation and code examples; research data are withheld pending publication and applicable agreements.
+### [Population Genomics: Ancestry](https://github.com/codewithPauline/Ancestry)
 
-[Explore the analysis →](https://github.com/codewithPauline/Ancestry#readme)
+**RADseq population-structure analysis**
 
-### [Genomic Orbit](https://github.com/codewithPauline/genomic-orbit)
+A reproducible **PLINK → ADMIXTURE → R** workflow analyzing genomic ancestry in **125 *Ambystoma* individuals sampled across seven U.S. states**.
 
-**Interactive visualization · Scientific communication · Web development**
+The project evaluates K = 1–10 using cross-validation, documents genotype-processing decisions, produces individual ancestry barplots and geographic ancestry maps, and separates unpublished research data from a public reproducible workflow.
 
-An interactive DNA visualization built with **HTML, CSS, JavaScript, and Canvas**. Features rotation controls, research nodes, and support for reduced-motion preferences.
+**Signals:** population genomics · HPC/Linux workflows · model comparison · research reproducibility
 
-[Launch the visualization →](https://codewithpauline.github.io/genomic-orbit/) · [View the source →](https://github.com/codewithPauline/genomic-orbit)
+[Explore analysis →](https://github.com/codewithPauline/Ancestry#readme)
+
+</td>
+</tr>
+</table>
 
 ## Technical toolkit
 
-| Area | Tools & experience |
+| Domain | Tools & experience |
 | :--- | :--- |
-| Programming & analysis | R, Python, JavaScript, Bash |
-| Scientific / 3D web development | Three.js, WebGL, Vite, GLB/glTF, HTML, CSS |
-| Sequence quality & assembly | FastQC, MultiQC, fastp, Stacks, ipyrad |
-| Population genomics & phylogenetics | PLINK, ADMIXTURE, IQ-TREE, EEMS |
-| Data visualization | ggplot2, ggrepel, sf, mapmixture, igraph |
-| Research computing | Linux/WSL, HPC, SLURM, Conda, Git & GitHub |
-| Software delivery | GitHub Actions, GitHub Pages, reproducible asset pipelines |
+| **Programming** | R, Python, JavaScript, Bash |
+| **Genomics & phylogenetics** | PLINK, ADMIXTURE, ipyrad, IQ-TREE, EEMS |
+| **RNA-seq / sequence QC** | FastQC, MultiQC, fastp |
+| **Scientific visualization** | ggplot2, sf, mapmixture, igraph, Three.js, WebGL |
+| **Research computing** | Linux, HPC, SLURM, Conda, Git, GitHub |
+| **Software engineering** | R packages, modular JavaScript, automated tests, GitHub Actions, CI/CD |
+| **3D / web** | Three.js, GLB/glTF, Vite, HTML, CSS, GitHub Pages |
 
-## Research in progress
+## Research focus
 
-- **Species boundaries and gene flow:** integrating phylogenetic relationships, ancestry patterns, and geographic context in *Ambystoma barbouri* and *A. texanum*.
-- **Spatial population genomics:** investigating how population structure and genetic connectivity vary across the landscape.
-- **Comparative transcriptomics:** developing RNA-seq analyses of brain, liver, heart, and ovarian tissues to investigate expression differences between species and tissues.
+My Ph.D. research combines population genomics, phylogenetics, spatial analysis, and transcriptomics to understand divergence and gene flow in closely related salamander species.
 
-## Teaching & scientific communication
+- **Species boundaries & gene flow** — RADseq, phylogenetic inference, ancestry estimation, spatial genetic structure
+- **Landscape & population genomics** — geographic ancestry, connectivity, migration surfaces, candidate loci
+- **Comparative transcriptomics** — RNA-seq analysis across brain, heart, liver, and ovarian tissues
 
-I teach **Human Physiology & Anatomy** laboratory courses and computational approaches to genetics. As a **LAMBDA workshop instructor**, I help researchers use R to explore genetic data, interpret results, and develop reproducible analysis habits.
+## Beyond analysis
 
-My science communication experience includes an invited **Story Collider** talk at the **2024 Evolution meeting in Montréal**, connecting my scientific work with the personal experience of becoming a researcher.
+I teach **Human Anatomy & Physiology** laboratory courses and computational approaches to genetics. I also teach researchers how to use **R for genetic data analysis** through LAMBDA workshops.
+
+That combination of research, teaching, and software development shapes how I build: tools should be **technically rigorous, reproducible, understandable, and useful to the person on the other side of the screen**.
 
 <details>
-<summary><strong>See teaching and science communication in action</strong></summary>
+<summary><strong>Teaching & scientific communication</strong></summary>
 
 <br>
 
@@ -104,21 +111,24 @@ My science communication experience includes an invited **Story Collider** talk 
 
 <img src="Majolica_Photo_StoryCollider%20_Pauline_15.jpeg" width="720" alt="Pauline speaking at The Story Collider in Montréal in 2024">
 
-*Invited science storytelling speaker, 2024.*
+*Invited Story Collider speaker at the 2024 Evolution meeting in Montréal.*
 
 </details>
 
-## Background & service
+## Background
 
-- **Ph.D. Candidate in Biology**, Miami University — computational and evolutionary biology.
-- **B.Sc. in Environmental Science**, Kwame Nkrumah University of Science and Technology.
-- **Gundlach Theis Fellowship**, 2025.
-- **Treasurer**, Miami Association of Graduate Students.
+- **Ph.D. Candidate in Biology**, Miami University — computational and evolutionary biology
+- **B.Sc. Environmental Science**, Kwame Nkrumah University of Science and Technology
+- **Gundlach Theis Fellowship**, 2025
+- **Treasurer**, Miami Association of Graduate Students
 
 ---
 
-### Let's connect
-
-Interested in computational biology, population genomics, bioinformatics, scientific software, or research collaborations? Reach me on [LinkedIn](https://www.linkedin.com/in/pauline-owusu-ansah-010250192/) or by [email](mailto:paulineowusu653@gmail.com).
-
-<sub>Biological questions. Transparent workflows. Clear scientific communication.</sub>
+<p align="center">
+  <strong>Building reproducible tools for biological discovery.</strong><br><br>
+  <a href="https://www.linkedin.com/in/pauline-owusu-ansah-010250192/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:paulineowusu653@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://github.com/codewithPauline/Anatomica">Anatomica</a> &nbsp;·&nbsp;
+  <a href="https://github.com/codewithPauline/PopGenMapper">PopGenMapper</a> &nbsp;·&nbsp;
+  <a href="https://github.com/codewithPauline/Ancestry">Ancestry</a>
+</p>
