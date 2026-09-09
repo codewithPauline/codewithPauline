@@ -25,18 +25,18 @@ Computational and evolutionary biologist building **genomic analyses, scientific
 <tr>
 <td width="33%" valign="top">
 
-### [Anatomica](https://github.com/codewithPauline/Anatomica)
+### [RangeShift AI](https://github.com/codewithPauline/RangeShift-AI)
 
-**Interactive 3D anatomy platform**
+**Geospatial machine learning for species range shifts**
 
-A browser-based anatomy and physiology learning system built with **Three.js, WebGL, JavaScript, GLB/glTF, and Vite**.
+A released Python scientific-software toolkit for habitat-suitability modeling and climate-driven range-shift analysis, with **spatial validation, model tuning, probability calibration, threshold selection, raster prediction, SHAP interpretation, environmental-novelty diagnostics, dispersal constraints, reproducible run manifests, and a packaged Streamlit explorer**.
 
-Current development includes real anatomical meshes, system-based coloring, upper-limb and hand exploration, rotator-cuff and forearm study modes, clinical teaching metadata, interactive quizzes, reproducible asset provenance, CI, and automated GitHub Pages deployment.
+Versioned releases include installable wheel/source distributions, automated tests across Python versions, geospatial and explainability CI, and GitHub release automation.
 
-**Signals:** product engineering · 3D visualization · scientific data architecture · CI/CD
+**Signals:** Python · geospatial ML · scientific software · reproducibility · CI/CD
 
-[Live demo →](https://codewithpauline.github.io/Anatomica/)  
-[Source →](https://github.com/codewithPauline/Anatomica)
+[Latest release →](https://github.com/codewithPauline/RangeShift-AI/releases/latest)  
+[Source →](https://github.com/codewithPauline/RangeShift-AI)
 
 </td>
 <td width="33%" valign="top">
@@ -126,7 +126,7 @@ That combination of research, teaching, and software development shapes how I bu
   <strong>Building reproducible tools for biological discovery.</strong><br><br>
   <a href="https://www.linkedin.com/in/pauline-owusu-ansah-010250192/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:paulineowusu653@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://github.com/codewithPauline/Anatomica">Anatomica</a> &nbsp;·&nbsp;
+  <a href="https://github.com/codewithPauline/RangeShift-AI">RangeShift AI</a> &nbsp;·&nbsp;
   <a href="https://github.com/codewithPauline/PopGenMapper">PopGenMapper</a> &nbsp;·&nbsp;
   <a href="https://github.com/codewithPauline/Ancestry">Ancestry</a>
 </p>
