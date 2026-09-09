@@ -29,7 +29,7 @@ Computational and evolutionary biologist building **genomic analyses, scientific
 
 **Geospatial machine learning for species range shifts**
 
-A released Python scientific-software toolkit for habitat-suitability modeling and climate-driven range-shift analysis, with **spatial validation, model tuning, probability calibration, threshold selection, raster prediction, SHAP interpretation, environmental-novelty diagnostics, dispersal constraints, reproducible run manifests, and a packaged Streamlit explorer**.
+A Python scientific-software toolkit for habitat-suitability modeling and climate-driven range-shift analysis, with **spatial validation, model tuning, probability calibration, threshold selection, raster prediction, SHAP interpretation, environmental-novelty diagnostics, dispersal constraints, reproducible run manifests, and a packaged Streamlit explorer**.
 
 Versioned releases include installable wheel/source distributions, automated tests across Python versions, geospatial and explainability CI, and GitHub release automation.
 
