@@ -13,8 +13,6 @@
 
 ---
 
-## I turn biological questions into reproducible computational tools
-
 Computational and evolutionary biologist building **genomic analyses, scientific software, and interactive biological visualizations**.
 
 **R · Python · Bash · HPC · Population Genomics · Scientific Software**
